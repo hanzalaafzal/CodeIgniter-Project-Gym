@@ -3,6 +3,7 @@
 How to Setup?
 
 #########################################################################################
+
 Database file  : ~ gym.sql
 Database Name: gym
 1. Import "gym.sql" to your phpmyAdmin (preffered) or any of your Database management system.
