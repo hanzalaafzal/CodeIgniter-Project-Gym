@@ -22,4 +22,4 @@ Note : If you are familiar with CodeIgniter v3.x then you can change base_url fr
 ###### Default Password: 123
 
 ### Dashboard
-![Dashboard](https://img.techpowerup.org/201010/code-gym-dashboard.png = 300x300)
+![Dashboard](https://img.techpowerup.org/201010/code-gym-dashboard.png | width=600)
