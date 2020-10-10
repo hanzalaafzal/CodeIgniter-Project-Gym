@@ -23,4 +23,6 @@ Note : If you are familiar with CodeIgniter v3.x then you can change base_url fr
 
 ### Dashboard
 ![Dashboard](https://img.techpowerup.org/201010/code-gym-dashboard.png)
-<img src="https://img.techpowerup.org/201010/code-gym-dashboard.png" width="900" height="600">
+#### Add Forms
+![Forms - Add](https://img.techpowerup.org/201010/add-form.png)
+![Logs - Datatables](https://img.techpowerup.org/201010/logs.png)
