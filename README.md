@@ -25,4 +25,5 @@ Note : If you are familiar with CodeIgniter v3.x then you can change base_url fr
 ![Dashboard](https://img.techpowerup.org/201010/code-gym-dashboard.png)
 #### Add Forms
 ![Forms - Add](https://img.techpowerup.org/201010/add-form.png)
+#### Datatables
 ![Logs - Datatables](https://img.techpowerup.org/201010/logs.png)
